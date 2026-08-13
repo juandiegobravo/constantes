@@ -1,0 +1,45 @@
+2026/08/12-14:38:49.022 49043 Reusing MANIFEST /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/Session Storage/MANIFEST-000001
+2026/08/12-14:38:49.023 49043 Recovering log #138
+2026/08/12-14:38:49.023 49043 Reusing old log /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/Session Storage/000138.log 
+2026/08/12-14:46:40.200 49046 Level-0 table #142: started
+2026/08/12-14:46:40.203 49046 Level-0 table #142: 17419 bytes OK
+2026/08/12-14:46:40.207 49046 Delete type=0 #138
+2026/08/12-14:46:40.211 49043 Compacting 4@0 + 1@1 files
+2026/08/12-14:46:40.220 49043 Generated table #143@0: 16006 keys, 315848 bytes
+2026/08/12-14:46:40.220 49043 Compacted 4@0 + 1@1 files => 315848 bytes
+2026/08/12-14:46:40.221 49043 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-14:46:40.221 49043 Delete type=2 #139
+2026/08/12-14:46:40.221 49043 Delete type=2 #142
+2026/08/12-14:46:40.221 49043 Delete type=2 #137
+2026/08/12-14:46:40.221 49043 Delete type=2 #134
+2026/08/12-14:46:40.221 49043 Delete type=2 #132
+2026/08/12-14:59:33.384 49046 Level-0 table #145: started
+2026/08/12-14:59:33.388 49046 Level-0 table #145: 16082 bytes OK
+2026/08/12-14:59:33.391 49046 Delete type=0 #141
+2026/08/12-15:05:59.459 49046 Level-0 table #147: started
+2026/08/12-15:05:59.463 49046 Level-0 table #147: 14820 bytes OK
+2026/08/12-15:05:59.467 49046 Delete type=0 #144
+2026/08/12-15:11:02.823 49043 Level-0 table #149: started
+2026/08/12-15:11:02.833 49043 Level-0 table #149: 14151 bytes OK
+2026/08/12-15:11:02.837 49043 Delete type=0 #146
+2026/08/12-15:16:01.181 49046 Level-0 table #151: started
+2026/08/12-15:16:01.185 49046 Level-0 table #151: 14562 bytes OK
+2026/08/12-15:16:01.191 49046 Delete type=0 #148
+2026/08/12-15:16:01.193 49046 Compacting 4@0 + 1@1 files
+2026/08/12-15:16:01.204 49046 Generated table #152@0: 17001 keys, 340018 bytes
+2026/08/12-15:16:01.204 49046 Compacted 4@0 + 1@1 files => 340018 bytes
+2026/08/12-15:16:01.205 49046 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-15:16:01.206 49046 Delete type=2 #149
+2026/08/12-15:16:01.206 49046 Delete type=2 #143
+2026/08/12-15:16:01.206 49046 Delete type=2 #147
+2026/08/12-15:16:01.206 49046 Delete type=2 #145
+2026/08/12-15:16:01.206 49046 Delete type=2 #151
+2026/08/12-15:18:17.886 49046 Level-0 table #154: started
+2026/08/12-15:18:17.890 49046 Level-0 table #154: 16320 bytes OK
+2026/08/12-15:18:17.893 49046 Delete type=0 #150
+2026/08/12-15:22:51.241 49046 Level-0 table #156: started
+2026/08/12-15:22:51.248 49046 Level-0 table #156: 14453 bytes OK
+2026/08/12-15:22:51.252 49046 Delete type=0 #153
+2026/08/12-15:31:47.288 49046 Level-0 table #158: started
+2026/08/12-15:31:47.293 49046 Level-0 table #158: 24974 bytes OK
+2026/08/12-15:31:47.295 49046 Delete type=0 #155

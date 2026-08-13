@@ -1,0 +1,25 @@
+2026/08/03-10:04:01.037 123d26 Reusing MANIFEST /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/03-10:04:01.037 123d26 Recovering log #101
+2026/08/03-10:04:01.038 123d26 Reusing old log /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb/000101.log 
+2026/08/03-10:04:01.038 123d26 Delete type=2 #100
+2026/08/03-10:04:01.052 123d24 Level-0 table #106: started
+2026/08/03-10:04:01.054 123d24 Level-0 table #106: 548 bytes OK
+2026/08/03-10:04:01.056 123d24 Delete type=0 #101
+2026/08/03-10:04:01.058 123d24 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x00\x00\x05' @ 696 : 1
+2026/08/03-10:04:01.058 123d24 Compacting 1@0 + 1@1 files
+2026/08/03-10:04:01.060 123d24 Generated table #107@0: 65 keys, 2003 bytes
+2026/08/03-10:04:01.060 123d24 Compacted 1@0 + 1@1 files => 2003 bytes
+2026/08/03-10:04:01.061 123d24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/03-10:04:01.065 123d24 Delete type=2 #106
+2026/08/03-10:04:01.067 123d37 Manual compaction at level-0 from '\x00!\x00\x00\x05' @ 696 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/03-10:04:01.787 123d38 Level-0 table #109: started
+2026/08/03-10:04:01.805 123d38 Level-0 table #109: 544 bytes OK
+2026/08/03-10:04:01.807 123d38 Delete type=2 #103
+2026/08/03-10:04:01.807 123d38 Delete type=0 #105
+2026/08/03-10:04:01.807 123d24 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 715 : 1
+2026/08/03-10:04:01.807 123d24 Compacting 1@0 + 1@1 files
+2026/08/03-10:04:01.808 123d24 Generated table #110@0: 69 keys, 2028 bytes
+2026/08/03-10:04:01.809 123d24 Compacted 1@0 + 1@1 files => 2028 bytes
+2026/08/03-10:04:01.810 123d24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/03-10:04:01.810 123d24 Delete type=2 #109
+2026/08/03-10:04:01.810 123d24 Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 715 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,15 @@
+2026/08/12-15:28:49.356 48fd6 Reusing MANIFEST /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/IndexedDB/https_www.naturgy.es_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/12-15:28:49.357 48fd6 Recovering log #4
+2026/08/12-15:28:49.358 48fd6 Reusing old log /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/IndexedDB/https_www.naturgy.es_0.indexeddb.leveldb/000004.log 
+2026/08/12-15:28:51.949 48fd8 Level-0 table #8: started
+2026/08/12-15:28:51.952 48fd8 Level-0 table #8: 23919 bytes OK
+2026/08/12-15:28:51.956 48fd8 Delete type=0 #4
+2026/08/12-15:28:51.959 48fd8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/08/12-15:28:51.960 48fd8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x06\x00a\x00v\x00a\x00t\x00a\x00r' @ 553 : 1
+2026/08/12-15:28:51.960 48fd8 Compacting 1@1 + 1@2 files
+2026/08/12-15:28:51.965 48fd8 Generated table #9@1: 55 keys, 1406 bytes
+2026/08/12-15:28:51.965 48fd8 Compacted 1@1 + 1@2 files => 1406 bytes
+2026/08/12-15:28:51.967 48fd8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/12-15:28:51.967 48fd8 Delete type=2 #5
+2026/08/12-15:28:51.967 48fd8 Delete type=2 #8
+2026/08/12-15:28:51.970 48fd8 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x06\x00a\x00v\x00a\x00t\x00a\x00r' @ 553 : 1 .. (end); will stop at (end)

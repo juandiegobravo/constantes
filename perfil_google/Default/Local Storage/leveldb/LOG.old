@@ -1,0 +1,45 @@
+2026/08/12-14:38:47.574 49043 Reusing MANIFEST /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/12-14:38:47.577 49043 Recovering log #99
+2026/08/12-14:38:47.577 49043 Reusing old log /Users/juan.bravo/Desktop/antigravity/Constantes/perfil_google/Default/Local Storage/leveldb/000099.log 
+2026/08/12-14:51:03.891 49046 Level-0 table #103: started
+2026/08/12-14:51:03.896 49046 Level-0 table #103: 16795 bytes OK
+2026/08/12-14:51:03.912 49046 Delete type=0 #99
+2026/08/12-15:03:38.129 49043 Level-0 table #105: started
+2026/08/12-15:03:38.137 49043 Level-0 table #105: 11667 bytes OK
+2026/08/12-15:03:38.140 49043 Delete type=0 #102
+2026/08/12-15:04:20.329 49046 Level-0 table #107: started
+2026/08/12-15:04:20.333 49046 Level-0 table #107: 11271 bytes OK
+2026/08/12-15:04:20.337 49046 Delete type=0 #104
+2026/08/12-15:04:20.338 49046 Compacting 4@0 + 1@1 files
+2026/08/12-15:04:20.344 49046 Generated table #108@0: 294 keys, 55186 bytes
+2026/08/12-15:04:20.344 49046 Compacted 4@0 + 1@1 files => 55186 bytes
+2026/08/12-15:04:20.346 49046 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-15:04:20.346 49046 Delete type=2 #103
+2026/08/12-15:04:20.346 49046 Delete type=2 #100
+2026/08/12-15:04:20.346 49046 Delete type=2 #105
+2026/08/12-15:04:20.346 49046 Delete type=2 #107
+2026/08/12-15:04:20.346 49046 Delete type=2 #97
+2026/08/12-15:05:00.822 49046 Level-0 table #110: started
+2026/08/12-15:05:00.825 49046 Level-0 table #110: 11908 bytes OK
+2026/08/12-15:05:00.829 49046 Delete type=0 #106
+2026/08/12-15:05:33.824 49043 Level-0 table #112: started
+2026/08/12-15:05:33.830 49043 Level-0 table #112: 11162 bytes OK
+2026/08/12-15:05:33.837 49043 Delete type=0 #109
+2026/08/12-15:06:07.064 49046 Level-0 table #114: started
+2026/08/12-15:06:07.068 49046 Level-0 table #114: 11284 bytes OK
+2026/08/12-15:06:07.071 49046 Delete type=0 #111
+2026/08/12-15:11:11.522 49043 Level-0 table #116: started
+2026/08/12-15:11:11.531 49043 Level-0 table #116: 10863 bytes OK
+2026/08/12-15:11:11.535 49043 Delete type=0 #113
+2026/08/12-15:11:11.539 49043 Compacting 4@0 + 1@1 files
+2026/08/12-15:11:11.542 49043 Generated table #117@0: 294 keys, 55546 bytes
+2026/08/12-15:11:11.542 49043 Compacted 4@0 + 1@1 files => 55546 bytes
+2026/08/12-15:11:11.544 49043 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-15:11:11.544 49043 Delete type=2 #116
+2026/08/12-15:11:11.544 49043 Delete type=2 #114
+2026/08/12-15:11:11.544 49043 Delete type=2 #110
+2026/08/12-15:11:11.544 49043 Delete type=2 #112
+2026/08/12-15:11:11.544 49043 Delete type=2 #108
+2026/08/12-15:19:05.495 49046 Level-0 table #119: started
+2026/08/12-15:19:05.499 49046 Level-0 table #119: 9682 bytes OK
+2026/08/12-15:19:05.506 49046 Delete type=0 #115
