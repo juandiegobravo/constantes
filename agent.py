@@ -10,7 +10,7 @@ load_dotenv()
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY")
+    api_key="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"
 )
 
 def procesar_texto_con_ia(concepto, texto_web):
