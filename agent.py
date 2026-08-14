@@ -112,7 +112,7 @@ def main():
     
     with sync_playwright() as p:
         browser = p.chromium.launch_persistent_context(
-            user_data_dir="./Constantes/perfil_google",
+            user_data_dir="./perfil_google",
             headless=False,
             args=["--start-maximized"]
         )
@@ -122,7 +122,9 @@ def main():
         page = browser.pages[0] if browser.pages else browser.new_page()
         print("Cargando Google Sheet...")
         page.goto(URL_SHEET, wait_until="domcontentloaded")
-        page.wait_for_timeout(5000)
+        print("Esperando 60 segundos para login manual...")
+        page.wait_for_timeout(60000)
+        print("Continuando proceso...")
         
         print("Sheet abierto. Empezando a procesar filas (2 a 1239)...")
         
